@@ -1,1 +1,1 @@
-# Harvard_CS50
+Weekly Assignments of Harvard's CS50 course
